@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactProjects/static/css/main.a8a2272e.css",
+    "main.js": "/ReactProjects/static/js/main.be0a23f1.js",
+    "static/js/787.fa3c4679.chunk.js": "/ReactProjects/static/js/787.fa3c4679.chunk.js",
+    "static/media/image4.jpg": "/ReactProjects/static/media/image4.0523f67b9d8decc26ea9.jpg",
+    "static/media/image3.jpg": "/ReactProjects/static/media/image3.68ce6bf5a3382fc1ff81.jpg",
+    "static/media/image2.jpg": "/ReactProjects/static/media/image2.ea995d97e2c7b8b0fd14.jpg",
+    "static/media/laptop4.jpg": "/ReactProjects/static/media/laptop4.a4b84689c70b38bf3c7c.jpg",
+    "static/media/laptop3.jpg": "/ReactProjects/static/media/laptop3.b6c3931702238e97de51.jpg",
+    "static/media/image5.jpg": "/ReactProjects/static/media/image5.8f8f667c973aa6111c75.jpg",
+    "static/media/laptop2.jpg": "/ReactProjects/static/media/laptop2.866d4795554e9b80c86b.jpg",
+    "static/media/image1.jpg": "/ReactProjects/static/media/image1.b5ebd9427dbceac229c6.jpg",
+    "static/media/laptop1.jpg": "/ReactProjects/static/media/laptop1.7efb173e3fa9aa19aeba.jpg",
+    "static/media/image6.jpg": "/ReactProjects/static/media/image6.363c14e65e3c313816da.jpg",
+    "static/media/logo.svg": "/ReactProjects/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactProjects/index.html",
+    "main.a8a2272e.css.map": "/ReactProjects/static/css/main.a8a2272e.css.map",
+    "main.be0a23f1.js.map": "/ReactProjects/static/js/main.be0a23f1.js.map",
+    "787.fa3c4679.chunk.js.map": "/ReactProjects/static/js/787.fa3c4679.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a2272e.css",
+    "static/js/main.be0a23f1.js"
+  ]
+}
